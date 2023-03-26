@@ -1,0 +1,29 @@
+/* const object1 = {
+    a: 'somestring',
+    b: 42
+  };
+  
+  for (const [key, value] of Object.entries(object1)) {
+    console.log(`${key}: ${value}`);
+  } */
+  
+
+ // hkhkj
+//  const person = {
+//     firstName: "John",
+//     lastName: "Doe",
+//     id: 5566,
+//     fullName : function() {
+//       return this.firstName + " " + this.lastName;
+//     }
+//   };
+// //  debugger;
+  
+//   // Display data from the object:
+//   console.log(person.fullName()); 
+  var x = myFunction(4, 3);
+console.log(x);
+
+function myFunction(a, b) {
+  return a * b;
+}
